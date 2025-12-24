@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiyad1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faiyad1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiyad5238@gmail.com)
+![Phone](https://img.shields.io/badge/0451614193-25D366?style=flat&logo=phone&logoColor=white)
 
 ---
 
@@ -43,6 +44,13 @@
 
 ## Featured Projects
 
+### [Collaborative Markdown Editor](https://github.com/Faiyad1/Collaborative-Markdown-Editor)
+A real-time collaborative document editing system built in **C** for Linux/Unix. Features multi-threaded architecture with POSIX threads, inter-process communication via named pipes (FIFOs), and real-time signal handling.
+
+`C` `POSIX Threads` `IPC` `Signals` `Mutexes`
+
+---
+
 ### [NeoEco — Sustainable Lifestyle Game](https://github.com/Faiyad1/NeoEco)
 Built the frontend using **React** and **JavaScript**, creating responsive interfaces for leaderboards, user profiles, XP progression, and dynamic quest modules. Integrated Django REST APIs for real-time XP tracking and group progress.
 
@@ -54,13 +62,6 @@ Built the frontend using **React** and **JavaScript**, creating responsive inter
 Built a real-time chatbox system using **Flask-SocketIO** with timed 2-minute chat sessions, user authentication, and profile management. Designed API specifications for seamless frontend integration.
 
 `Flask` `Socket.IO` `Python` `Backend`
-
----
-
-### [Collaborative Markdown Editor](https://github.com/Faiyad1/Collaborative-Markdown-Editor)
-A real-time collaborative document editing system built in **C** for Linux/Unix. Features multi-threaded architecture with POSIX threads, inter-process communication via named pipes (FIFOs), and real-time signal handling.
-
-`C` `POSIX Threads` `IPC` `Signals` `Mutexes`
 
 ---
 
