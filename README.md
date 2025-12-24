@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiyad1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faiyad1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiyad5238@gmail.com)
-![Phone](https://img.shields.io/badge/0451614193-25D366?style=flat&logo=phone&logoColor=white)
+![Phone](https://img.shields.io/badge/📞_0451614193-25D366?style=flat&logoColor=white)
 
 ---
 
@@ -58,17 +58,17 @@ Built the frontend using **React** and **JavaScript**, creating responsive inter
 
 ---
 
-### [MeetStreet — Real-time Social App](https://github.com/Faiyad1/MeetStreet)
-Built a real-time chatbox system using **Flask-SocketIO** with timed 2-minute chat sessions, user authentication, and profile management. Designed API specifications for seamless frontend integration.
-
-`Flask` `Socket.IO` `Python` `Backend`
-
----
-
 ### [Virtual Scroll Access System](https://github.com/Faiyad1/Virtual-Scroll-Access-System)
 A **JavaFX** desktop application for managing digital documents with user authentication and role-based access control. Built using Scrum methodology with CI/CD pipeline integration.
 
 `Java` `JavaFX` `MongoDB` `Jenkins` `Docker`
+
+---
+
+### [MeetStreet — Real-time Social App](https://github.com/Faiyad1/MeetStreet)
+Built a real-time chatbox system using **Flask-SocketIO** with timed 2-minute chat sessions, user authentication, and profile management. Designed API specifications for seamless frontend integration.
+
+`Flask` `Socket.IO` `Python` `Backend`
 
 ---
 
