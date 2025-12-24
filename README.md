@@ -90,11 +90,3 @@ Classic Checkers game with smooth animations. Implements standard rules includin
 **Winner — SUDATA x SYNCS: THE CHASE**
 Led one of two winning teams at the Sydney Computing Society & Data Society hackathon, demonstrating technical proficiency in a fast-paced competitive environment.
 
----
-
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Faiyad1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyad1&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
