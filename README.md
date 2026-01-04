@@ -2,9 +2,9 @@
 
 **Computer Science & Data Science** @ University of Sydney (2023–2027)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiyad1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS4wNCAyMGguMDFIMTlWMTMuMTVjMC0zLjM1LS43Mi00LjkzLTMuNjQtNC45My0xLjUgMC0yLjU0LjgzLTIuOTYgMS42MWgtLjA0VjguNTNoLTN2MTEuNDdoM3YtNS42OGMwLTEuNzcuMzQtMy40OCAyLjUzLTMuNDggMi4xNiAwIDIuMTkgMi4wMSAyLjE5IDMuNTlWMjBoLTAuMDh6TTUgOC41M0g4djExLjQ3SDV6bTEuNS0uNjZjLjk0IDAgMS43MS0uNzcgMS43MS0xLjcxYTEuNzEgMS43MSAwIDEgMC0xLjcxIDEuNzF6Ii8+PC9zdmc+)](https://www.linkedin.com/in/faiyad1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faiyad1)
-[![faiyad5238@gmail.com](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiyad5238@gmail.com)
+[![Email](https://img.shields.io/badge/faiyad5238%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiyad5238@gmail.com)
 ![Phone](https://img.shields.io/badge/📞_0451614193-25D366?style=flat&logoColor=white)
 
 ---
