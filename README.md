@@ -13,15 +13,10 @@ Hi, I'm Faiyad! I'm a **Software Engineer** currently interning at **Lume**, whe
 
 ---
 
-## 💼 Experience
-
-**Software Engineer Intern** @ Lume | December 2025 – Present
-
----
-
 ## 🏆 Achievements
 
 **Winner — SUDATA x SYNCS: THE CHASE**
+
 *Organized by Sydney Computing Society and Sydney University Data Society*
 - Led one of two winning teams in a highly competitive event, securing a cash prize for outstanding technical proficiency.
 - Demonstrated exceptional coding abilities, strategic problem-solving skills, collaborative teamwork, and quick adaptability in a fast-paced, competitive environment.
