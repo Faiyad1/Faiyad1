@@ -9,7 +9,7 @@
 
 ---
 
-#### Hi 👋, Welcome to my GitHub!
+**Hi 👋, Welcome to my GitHub!**
 
 I'm Faiyad, a **Software Engineer** currently interning at **Lume**, where I build cross-platform web and mobile applications, AI-driven recommendation systems, and real-time collaborative tools using React, React Native, TypeScript, and Node.js. I'm passionate about deep learning, computer vision, and systems programming. I enjoy solving complex problems, whether it's low-level C multithreading or high-level ML model evaluation.
 
