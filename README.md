@@ -3,7 +3,6 @@
 **Computer Science & Data Science** @ University of Sydney (2023–2027)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS4wNCAyMGguMDFIMTlWMTMuMTVjMC0zLjM1LS43Mi00LjkzLTMuNjQtNC45My0xLjUgMC0yLjU0LjgzLTIuOTYgMS42MWgtLjA0VjguNTNoLTN2MTEuNDdoM3YtNS42OGMwLTEuNzcuMzQtMy40OCAyLjUzLTMuNDggMi4xNiAwIDIuMTkgMi4wMSAyLjE5IDMuNTlWMjBoLTAuMDh6TTUgOC41M0g4djExLjQ3SDV6bTEuNS0uNjZjLjk0IDAgMS43MS0uNzcgMS43MS0xLjcxYTEuNzEgMS43MSAwIDEgMC0xLjcxIDEuNzF6Ii8+PC9zdmc+)](https://www.linkedin.com/in/faiyad1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faiyad1)
 [![Email](https://img.shields.io/badge/faiyad5238%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiyad5238@gmail.com)
 ![Phone](https://img.shields.io/badge/📞_0451614193-25D366?style=flat&logoColor=white)
 
@@ -11,7 +10,7 @@
 
 **Hi 👋, Welcome to my GitHub!**
 
-I'm Faiyad, a **Software Engineer** currently interning at **Lume**, where I build cross-platform web and mobile applications, AI-driven recommendation systems, and real-time collaborative tools using React, React Native, TypeScript, and Node.js. I'm passionate about deep learning, computer vision, and systems programming. I enjoy solving complex problems, whether it's low-level C multithreading or high-level ML model evaluation.
+I'm Faiyad, a **Computer Science** student who builds cross-platform web and mobile applications, AI-driven recommendation systems and real-time collaborative tools using React, React Native, TypeScript and Node.js. I'm passionate about deep learning, computer vision and systems programming. I enjoy solving complex problems, whether it's low-level C multithreading or high-level ML model evaluation.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 😊
 
@@ -21,9 +20,20 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 **Winner — SUDATA x SYNCS: THE CHASE**
 
-*Organized by Sydney Computing Society and Sydney University Data Society*
+*Organised by Sydney Computing Society and Sydney University Data Society*
 - Led one of two winning teams in a highly competitive event, securing a cash prize for outstanding technical proficiency.
-- Demonstrated exceptional coding abilities, strategic problem-solving skills, collaborative teamwork, and quick adaptability in a fast-paced, competitive environment.
+- Demonstrated exceptional coding abilities, strategic problem-solving skills, collaborative teamwork and quick adaptability in a fast-paced, competitive environment.
+
+---
+
+## 💼 Experience
+
+**Software Engineer Intern — Solarnote**
+- Developed and optimised cross-platform web and mobile applications using React, React Native, TypeScript and Node.js, delivering video/image editing (FFmpeg), cloud storage (GCS), real-time notifications and analytics.
+- Built AI-driven recommendation engines and ranking algorithms (Reels, promotions, trending content, event venues/communities/events) and optimised notification timing using ML models trained on user behavioural data with AI-classified labels.
+- Collaborated in Agile cross-functional teams, managing competing priorities and heavy workloads to deliver seamless product updates, performance improvements and new feature rollouts within tight deadlines.
+
+`React` `React Native` `TypeScript` `Node.js` `FFmpeg` `Google Cloud Storage` `Machine Learning` `Agile`
 
 ---
 
@@ -120,7 +130,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ### [3D Point Cloud Analysis](https://github.com/Faiyad1/3D-Point-Cloud-Analysis)
 - Reproduced and evaluated state-of-the-art deep learning models (PointNet++, DGCNN, PointMLP) for 3D point cloud classification on ModelNet40 dataset using Google Cloud’s NVIDIA V100 GPU.
-- Conducted comparative analysis of deep learning architectures for hierarchical point set learning and dynamic graph convolution, analyzing architectural trade-offs in capturing local geometric structures and training efficiency.
+- Conducted comparative analysis of deep learning architectures for hierarchical point set learning and dynamic graph convolution, analysing architectural trade-offs in capturing local geometric structures and training efficiency.
 
 `Python` `PyTorch` `Google Cloud` `CUDA` `NumPy` `OpenCV` `Scikit-learn` `Matplotlib` `SciPy` `Deep Learning`
 
@@ -128,22 +138,22 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ### [Collaborative Markdown Editor](https://github.com/Faiyad1/Collaborative-Markdown-Editor)
 - Engineered a multi-threaded client-server system enabling concurrent document editing and real-time collaboration using POSIX threads, named pipes (FIFOs), real-time signals and epoll.
-- Implemented a custom version control protocol to handle real-time synchronization, role-based access control, and race condition prevention using mutex locks and semaphores, validated for memory safety and race conditions.
+- Implemented a custom version control protocol to handle real-time synchronisation, role-based access control and race condition prevention using mutex locks and semaphores, validated for memory safety and race conditions.
 
 `C` `POSIX Threads` `IPC` `Multithreading` `Linux`
 
 ---
 
-### [Video Motion Tracking and Visualization](https://github.com/Faiyad1/Video-Motion-Tracking-and-Visualization)
+### [Video Motion Tracking and Visualisation](https://github.com/Faiyad1/Video-Motion-Tracking-and-Visualisation)
 - Implemented block-matching motion estimation on uploaded video using macroblock matching with Sum of Squared Differences (SSD) algorithm.
-- Developed noise filtering with configurable thresholds and arrow visualization for motion vector display between video frames.
+- Developed noise filtering with configurable thresholds and arrow visualisation for motion vector display between video frames.
 
 `Python` `OpenCV` `NumPy` `Computer Vision` `Image Processing`
 
 ---
 
 ### [Tanks](https://github.com/Faiyad1/Tanks)
-- Developed multiplayer artillery game with terrain destruction, wind physics affecting projectile trajectory, and power-up systems.
+- Developed multiplayer artillery game with terrain destruction, wind physics affecting projectile trajectory and power-up systems.
 - Implemented themed levels with procedural generation for unlimited mode and comprehensive unit testing with JaCoCo coverage.
 
 `Java` `Processing` `Gradle` `JUnit` `JaCoCo` `Game Development`
@@ -151,31 +161,31 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ---
 
 ### [Arduino Maze Navigation Robot](https://github.com/Faiyad1/Arduino-Maze-Navigation-Robot)
-- Developed autonomous maze-solving robot using IR sensors for wall detection, maze mapping, and pathfinding with 7-level alignment algorithm for corridor centering.
-- Implemented navigation logic for T-junctions, dead-end detection, and 180-degree turns with configurable IR modulation frequencies.
+- Developed autonomous maze-solving robot using IR sensors for wall detection, maze mapping and pathfinding with 7-level alignment algorithm for corridor centering.
+- Implemented navigation logic for T-junctions, dead-end detection and 180-degree turns with configurable IR modulation frequencies.
 
 `C++` `Embedded Systems` `IR Sensors` `Arduino` `Robotics`
 
 ---
 
 ### [Sydney Spatial Insights](https://github.com/Faiyad1/Sydney-Spatial-Insights)
-- Conducted geospatial analysis of liveability scores across Sydney SA2 regions using geospatial data, PostGIS for spatial queries, demographic information, and points of interest from NSW Maps API.
-- Developed scoring system using z-score standardization and sigmoid transformation, with interactive choropleth maps and correlation analysis.
+- Conducted geospatial analysis of liveability scores across Sydney SA2 regions using geospatial data, PostGIS for spatial queries, demographic information and points of interest from NSW Maps API.
+- Developed scoring system using z-score standardisation and sigmoid transformation, with interactive choropleth maps and correlation analysis.
 
 `Python` `PostgreSQL` `PostGIS` `Pandas` `GeoPandas` `Matplotlib` `Plotly` `SQL` `NSW Maps API` `REST API`
 
 ---
 
 ### [EDU-PLUS](https://github.com/Faiyad1/EDU-PLUS)
-- Designed high-fidelity UI prototypes for unified educational platform catering to teachers, students, and parents.
-- Created comprehensive design system with role-based color identity, interactive components, and responsive layouts.
+- Designed high-fidelity UI prototypes for unified educational platform catering to teachers, students and parents.
+- Created comprehensive design system with role-based color identity, interactive components and responsive layouts.
 
 `Figma` `UI/UX Design` `Prototyping` `User Research`
 
 ---
 
 ### [3D Sphere Physics Simulator](https://github.com/Faiyad1/3D-Sphere-Physics-Simulator)
-- Built 3D physics simulation with gravity, air friction, elastic ball-to-ball collisions, wall reflections, and angular momentum mechanics.
+- Built 3D physics simulation with gravity, air friction, elastic ball-to-ball collisions, wall reflections and angular momentum mechanics.
 - Implemented interactive ball spawning with configurable physics parameters and 3D camera perspective rendering.
 
 `Processing` `Java` `3D Graphics` `Physics Simulation`
@@ -183,7 +193,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ---
 
 ### [Currency Converter](https://github.com/Faiyad1/Currency-Converter)
-- Developed CLI currency converter for real-time exchange conversion and historical data analysis including average, median, and standard deviation.
+- Developed CLI currency converter for real-time exchange conversion and historical data analysis including average, median and standard deviation.
 - Implemented admin functionality for updating exchange rates and managing currencies with comprehensive test coverage using JaCoCo.
 
 `Java` `Gradle` `JUnit` `JaCoCo` `Agile`
@@ -191,7 +201,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ---
 
 ### [Checkers](https://github.com/Faiyad1/Checkers)
-- Built multiplayer Checkers game with smooth piece animation, visual highlighting of valid moves, king promotion, and win detection algorithms.
+- Built multiplayer Checkers game with smooth piece animation, visual highlighting of valid moves, king promotion and win detection algorithms.
 - Implemented standard game rules including piece capturing by jumping and two-player turn-based gameplay.
 
 `Java` `Processing` `Gradle` `Object-Oriented Programming` `Game Development`
@@ -199,15 +209,15 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ---
 
 ### [Exam Management System](https://github.com/Faiyad1/Exam-Management-System)
-- Created a comprehensive text-based exam administration tool supporting multiple question types, auto-grading, and candidate management.
-- Implemented candidate management with SID verification, answer shuffling, extra time allocation, and submission logging.
+- Created a comprehensive text-based exam administration tool supporting multiple question types, auto-grading and candidate management.
+- Implemented candidate management with SID verification, answer shuffling, extra time allocation and submission logging.
 
 `Python` `File I/O` `Data Processing`
 
 ---
 
 ### [Virtual Scroll Access System (VSAS)](https://github.com/Faiyad1/Virtual-Scroll-Access-System-VSAS-)
-- Built a responsive JavaFX desktop application for binary file repository with role-based access control (Guest, Member, Admin), user authentication, and encrypted passwords.
+- Built a responsive JavaFX desktop application for binary file repository with role-based access control (Guest, Member, Admin), user authentication and encrypted passwords.
 - Developed using Scrum methodology over 3 sprints with CI/CD pipeline using Jenkins and Docker to automate testing and deployment, ensuring code quality and reliability.
 
 `Java` `JavaFX` `Gradle` `MongoDB` `Docker` `Ngrok` `Jenkins` `JUnit` `JaCoCo` `Scrum`
@@ -216,8 +226,8 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ### [NeoEco](https://github.com/joelkurien/SyncsHack2025)
 **Sustainable Lifestyle Game | Frontend Developer**
-- Built responsive frontend interfaces for leaderboards, user profiles, XP progression, and dynamic quest modules using React and JavaScript.
-- Integrated Django REST APIs with reusable components displaying real-time XP, levels, transport recommendations, and group progress.
+- Built responsive frontend interfaces for leaderboards, user profiles, XP progression and dynamic quest modules using React and JavaScript.
+- Integrated Django REST APIs with reusable components displaying real-time XP, levels, transport recommendations and group progress.
 
 `React` `JavaScript` `Django REST` `Frontend`
 
@@ -225,7 +235,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ### MeetStreet
 **Real-time Social Networking Application | Backend Developer**
-- Developed real-time chat system using Flask-SocketIO with timed 2-minute sessions, user authentication, and profile management.
+- Developed real-time chat system using Flask-SocketIO with timed 2-minute sessions, user authentication and profile management.
 - Designed and implemented API specifications for chat-session control ensuring efficient message flow and real-time interactions.
 
 `Flask` `Socket.IO` `Python` `Backend`
