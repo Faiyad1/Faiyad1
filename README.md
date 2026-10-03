@@ -38,7 +38,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 **Finalist — Inter-Uni Datathon**
 
-*Organised by the Data Science Societies of the University of Melbourne, University of New South Wales, Monash University and the University of Sydney*
+*Organised by the Data Science Societies of the University of New South Wales, University of Melbourne, University of Sydney and Monash University*
 
 - Reached the finals of an inter-university data science competition, competing against teams from four universities.
 - Analysed the challenge dataset and presented data-driven insights and recommendations to judges in the final round.
