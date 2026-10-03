@@ -21,8 +21,36 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 **Winner — SUDATA x SYNCS: THE CHASE**
 
 *Organised by Sydney Computing Society and Sydney University Data Society*
+
 - Led one of two winning teams in a highly competitive event, securing a cash prize for outstanding technical proficiency.
 - Demonstrated exceptional coding abilities, strategic problem-solving skills, collaborative teamwork and quick adaptability in a fast-paced, competitive environment.
+
+
+
+**Won People's Choice Prize — SYNCS Hack**
+
+*Organised by Sydney Computing Society*
+
+- Won the People's Choice Prize, voted by hackathon attendees as their favourite project out of all competing teams.
+- Collaborated in a team to design, build and demo a working prototype under tight hackathon time constraints.
+
+
+
+**Finalist — Inter-Uni Datathon**
+
+*Organised by the Data Science Societies of the University of Melbourne, University of New South Wales, Monash University and the University of Sydney*
+
+- Reached the finals of an inter-university data science competition, competing against teams from four universities.
+- Analysed the challenge dataset and presented data-driven insights and recommendations to judges in the final round.
+
+
+
+**Honourable Mention & Finalist — AI Automations Hackathon**
+
+*Organised by Sydney University Artificial Intelligence Association and StartUp Link USYD*
+
+- Selected as a finalist and awarded an Honourable Mention for building an AI-powered automation solution.
+- Developed the prototype as part of a team and pitched it to a panel of judges in the final round.
 
 ---
 
